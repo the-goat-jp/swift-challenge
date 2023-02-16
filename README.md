@@ -45,7 +45,7 @@ You are a tech-lead of an iOS team with 5 members. The team is going to develop 
 ### Challenge Requirements
 - Xcode: The latest version that is available on the Mac App Store.
 - Language: Swift 4~
-- Deployment Target: 13.0
+- Deployment Target: 14.0
 - Use UIKit/Storyboard for the main application.
   - You can create UI via code, but familiarity with xibs/storyboards is a MUST.
 
