@@ -61,33 +61,13 @@ You are a tech-lead of an iOS team with 5 members. The team is going to develop 
 ---
 
 ### Evaluation Criteria
-This challenge will be evaluated based on the following. Each item will be evaluated on a scale of 1-5, 5 being the highest.
-- Following project requirements
-  - Does the submitted project run? Should have no code level related errors.
-  - Is the project set up based on the requirements i.e Swift version, deployment target, etc.?
-
-- App functionality and user experience
-  - Does the app work based on the specs? Are the specs correctly implemented?
-  - Does the app crash or lag on normal usage i.e. scrolling, tapping buttons, etc.? 
-  - Does the app ask for required permissions as needed?
-  - Does it work with denied permissions?
-  
+This challenge will be evaluated based on these five main criteria.
+- Following project requirements / specifications
+- App functionality and user experience  
 - Code and development
-  - Does the candidate use storyboards reasonably i.e. not too heavy, use of xibs as needed, etc.
-  - Does the candidate have the basic skills of AutoLayout?
-  - AppDelegate and VC should not be too fat.
-  - Readable and consistent code structure/architecture.
-        
 - Knowledge of iOS Development/Swift
-  - Does the candidate use Swift constructs as needed i.e. structs, classes, Codables, Error, etc.?
-  - Does the candidate understand basic logic/grammar constructs of Swift i.e. ifs, guards, loops, etc.?
-  - Does the candidate understand higher order functions of Swift i.e. map, filter, etc.?
+- Other relevant knowledge (testing, error handling, etc.)
 
-- Others
-  - Does the candidate write unit tests? Is the app testable?
-  - Does the candidate handle errors with proper ways?
-
-- *OPTIONAL. Only if project repository is submitted.*
-  - Are the commit messages clear and concise?
-  - Does the commit message correctly relate to the change made?
-  - Does the candidate commit reasonable amount of changes?
+*Bonus points, OPTIONAL. Added points on top of the above criteria.*
+- Submit project as a repository, with intact history from project creation to submission.
+- Make the app your own! Make it stand out more without compromising project requirements.
